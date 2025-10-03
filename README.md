@@ -29,7 +29,7 @@ I'm a passionate Sr. Analyst Infrastructure Services with experience in Mainfram
 ## Featured Projects 💻
 
 - Project name : Python for Machine learning 
-- B# 🧠 Deep Learning Classification with Multilayer Perceptron
+🧠 Deep Learning Classification with Multilayer Perceptron
 
 A deep learning project that demonstrates how to build and train a **Multilayer Perceptron (MLP)** for classification tasks using Python and popular machine learning libraries.
 
